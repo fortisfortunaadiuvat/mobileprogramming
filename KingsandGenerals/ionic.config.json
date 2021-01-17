@@ -1,0 +1,7 @@
+{
+  "name": "KingsInfo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
