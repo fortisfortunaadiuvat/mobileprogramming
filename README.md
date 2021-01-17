@@ -2,18 +2,22 @@
 
 //uygulama adımları/kullanılışı
 
-1.ilgili dizinde ionic serve yapılarak webdeki konsolda ve arayüzde çıktılar gözlenebilmektedir.
+1.ilk önce 'npm install' komut satırı ile bağımlılıklar yüklenir.
 
-2.Uygulama Firabase ile bağlantılıdır ve login durumları için email adresi kullanmaktadır.
+2.ilgili dizinde ionic serve yapılarak webdeki konsolda ve arayüzde çıktılar gözlenebilmektedir.
+
+3.Uygulama Firabase ile bağlantılıdır ve login durumları için email adresi kullanmaktadır.
   Misafir olarak da giriş yapılabilmektedir.
 
-3.Kralların bilgisi üzerinde işlem yapılabilmektedir.(two way binding)
+4.Kralların bilgisi üzerinde işlem yapılabilmektedir.(two way binding)
   
-3.Navigasyon işlemleri ile ilgili sayfalara/componentlere yönlendirme yapılmaktadır.
+5.Navigasyon işlemleri ile ilgili sayfalara/componentlere yönlendirme yapılmaktadır.
 
-4.Servis yapısı ile ilgili page üzerindeki işlemler log edilebilmektedir.
+6.Servis yapısı ile ilgili page üzerindeki işlemler log edilebilmektedir.
 
-5.Son olarak uygulamanın ilk sürümü 'npx cap open android' komutu ile emülatör üzerinde de 
+7.Uygulamanın androidde çalışması için yapılandırılması gerekmektedir.
+
+8.Uygulamanın ilk sürümü 'npx cap open android' komutu ile emülatör üzerinde de 
   gözlemlenebilmektedir.
   
 
